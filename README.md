@@ -1,1 +1,1 @@
-# clicky-game-netlify
+# clicky-game-starwars
